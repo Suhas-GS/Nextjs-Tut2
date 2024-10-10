@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -24,4 +24,20 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+
+.page-class{
+  background-color: aqua;
+  padding: 5px;
+}
+
+.header-class{
+  background-color: chartreuse;
+  padding: 5px;
+}
+
+.nav-class{
+  background-color: brown;
+  padding: 5px;
 }
